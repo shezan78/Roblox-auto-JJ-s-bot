@@ -8,4 +8,6 @@ A automatic program made in Python to make Grammar jacks, hell jacks and others 
   -- Begin at: What number you put is which ever number you start at, for example if you stop because of something, put the last number you've said
   -- End at: Self explanatory, it tells you which number you will stop at (Customizable)
   -- Capitilization: Has 3 different modes, One , one , and ONE .
+  -- Jack type: Shows which type of jack you want to do, the regular is GJ'S and JJ'S, but you can also do CJ'S DJ'S and HJ'S
+
 ```
