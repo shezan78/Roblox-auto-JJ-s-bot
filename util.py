@@ -3,7 +3,7 @@ import num2words
 def get_number(num: int):
     return num2words.num2words(num).replace("-", " ")
 
-instance
+
 
 def capitalize(config_instance, txt):
     if config_instance.cap_mode == 3:
