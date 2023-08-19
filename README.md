@@ -10,5 +10,5 @@ A automatic program made in Python to make Grammar jacks, hell jacks and others 
   -- Capitilization: Has 3 different modes, One , one , and ONE .
   -- Jack type: Shows which type of jack you want to do, the regular is GJ'S and JJ'S, but you can also do CJ'S DJ'S and HJ'S
   -- Punctuation: Which letter or symbol you END IN, for example One turns into One. Or one/ or One!
-  -- Start/Stop buttons:
+  -- Start/Stop buttons: Self explanatory, if you already have done the amount of jacks inputted in End at: it will automatically be stopped, start just starts the bot.
 ```
