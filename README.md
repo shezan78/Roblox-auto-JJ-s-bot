@@ -4,7 +4,7 @@ A automatic program made in Python to make Grammar jacks, hell jacks and others 
 ![image](https://github.com/shezan78/Roblox-auto-JJ-s-bot/assets/97002070/4b67e8b3-c22d-420b-a2eb-2ef1f5970331)
 # IMPORTANT -
 ```lua
-  
+  To start the bot is very important, for all of them, after you press start, you will have to go to roblox and press space and then enter and it automatically starts, but you have to keep repeating those 2 keys. For Cheer jacks, you just have to press enter for it to work.
 ```
 
 # Features -
