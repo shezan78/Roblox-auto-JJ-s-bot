@@ -7,5 +7,5 @@ A automatic program made in Python to make Grammar jacks, hell jacks and others 
 ```python
   -- Begin at: What number you put is which ever number you start at, for example if you stop because of something, put the last number you've said
   -- End at: Self explanatory, it tells you which number you will stop at (Customizable)
-  -- Capitilization: Has 3 different modes, 
+  -- Capitilization: Has 3 different modes, One , one , and ONE .
 ```
