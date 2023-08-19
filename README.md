@@ -9,5 +9,5 @@ A automatic program made in Python to make Grammar jacks, hell jacks and others 
   -- End at: Self explanatory, it tells you which number you will stop at (Customizable)
   -- Capitilization: Has 3 different modes, One , one , and ONE .
   -- Jack type: Shows which type of jack you want to do, the regular is GJ'S and JJ'S, but you can also do CJ'S DJ'S and HJ'S
-
+  -- Punctuation: Which letter or symbol you END IN, for example One turns into One. Or one/ or One!
 ```
