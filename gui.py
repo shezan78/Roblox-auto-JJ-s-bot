@@ -166,7 +166,7 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(_translate("MainWindow", "ChezBot - shezan0001"))
         self.beginAtLabel.setText(_translate("MainWindow", "Begin at:"))
         self.endAtLabel.setText(_translate("MainWindow", "End at:"))
-        self.helpLabel.setText(_translate("MainWindow", "\"Begins at:\" and \"Ends at:\" are the first and last jack the program performs. JJ/GJ jack type does one message per number in forward order. HJs split the numbers up into characters and then says the full number at the end. DJs are the same thing but backwards. CJs are the same as JJs, but they use cheer instead of jump. The punctuation can be whatever but common values are ! or . The space and enter keys must be manually pressed. Note that the CJ module uses only the enter key"))
+        self.helpLabel.setText(_translate("MainWindow", "\"Begins at:\" and \"Ends at:\" are the first and last jack the program performs. Enjoy my program, please if you do like this leave me a star and a fork on https://github.com/shezan78 if you need any extra information it will be listed within the github repository for this program."))
         self.modeComboBox.setItemText(0, _translate("MainWindow", "JJ/GJ"))
         self.modeComboBox.setItemText(1, _translate("MainWindow", "HJ"))
         self.modeComboBox.setItemText(2, _translate("MainWindow", "DJ"))
