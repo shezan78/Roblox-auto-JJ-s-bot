@@ -4,6 +4,7 @@ import keyboard
 import time
 import subprocess
 import ctypes
+import num2key
 
 class GenerateThread(threading.Thread):
     
