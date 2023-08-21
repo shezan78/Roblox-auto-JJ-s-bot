@@ -3,7 +3,7 @@ import generate
 import gui
 import sys
 
-from PyQt5 import QtWidgets
+from PyQt5 import QtWidgets # imports
 
 class Control:
 
