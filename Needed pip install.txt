@@ -1,2 +1,3 @@
 -- pip install num2words
 -- pip install keyboard
+-- pip install quux
